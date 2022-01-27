@@ -1,0 +1,50 @@
+
+*{
+    font-size: 33px;
+    font-family: 'Prompt', sans-serif;
+    color:black;
+}
+h1{
+    text-align: center;
+    
+    
+}
+
+
+.card{
+
+    background-color:white;
+    font-family: 'Courier New', Courier, monospace;
+    display: block;
+
+}
+h2{
+    height: 30px;
+    font-size: 20px;
+    font-family: cursive;
+    text-align: left;
+    border: tomato;
+    
+
+}
+footer{
+    
+ 
+    height: 30px;
+    font-size: 20px;
+   font-family: cursive;
+    
+    text-align: left;
+
+}
+h3{
+
+    color: white;
+    block-size: 0%;
+    font-size: 20px;
+    text-align: center;
+ 
+}
+div{
+    display: block;
+}
